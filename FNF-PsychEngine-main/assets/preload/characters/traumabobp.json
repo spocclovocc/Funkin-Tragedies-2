@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				288,
+				128
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "trauma_bob_down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				310,
+				195
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "trauma bob idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				287,
+				235
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "trauma_bob_up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				380,
+				227
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "trauma_bob_right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				244,
+				215
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "trauma_bob_left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				330,
+				181
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "bob_missleft",
+			"loop": true,
+			"name": "bob_missleft"
+		},
+		{
+			"offsets": [
+				280,
+				280
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "bob_missright",
+			"loop": true,
+			"name": "bob_missright"
+		},
+		{
+			"offsets": [
+				288,
+				280
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "bob_downmiss",
+			"loop": true,
+			"name": "traumabob_downmiss"
+		},
+		{
+			"offsets": [
+				278,
+				244
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "bob_up_miss",
+			"loop": true,
+			"name": "traumabob_up_miss"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/trauma_bob",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "icon_traumabob",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		230,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

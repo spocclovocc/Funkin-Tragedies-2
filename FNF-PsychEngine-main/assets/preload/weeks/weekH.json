@@ -1,0 +1,40 @@
+{
+	"storyName": "traumatic-experience and guilt ft. dandawg.",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"traumatic-experience",
+			"icon_traumabob",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"guilt",
+			"icon_traumabob",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"traumabob",
+		"bf",
+		"gf-no-speaker"
+	],
+	"weekName": "Custom Week"
+}

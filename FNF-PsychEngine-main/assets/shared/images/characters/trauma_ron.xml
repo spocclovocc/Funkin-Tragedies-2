@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="trauma_ron.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ron idle0000" x="1359" y="0" width="365" height="765"/>
+	<SubTexture name="ron idle0001" x="1359" y="765" width="365" height="765"/>
+	<SubTexture name="ron idle0002" x="1318" y="2307" width="365" height="765"/>
+	<SubTexture name="ron idle0003" x="1318" y="3072" width="365" height="765"/>
+	<SubTexture name="ron idle0004" x="1318" y="3837" width="365" height="765"/>
+	<SubTexture name="ron idle0005" x="1318" y="4602" width="365" height="765"/>
+	<SubTexture name="ron idle0006" x="1573" y="5367" width="365" height="765"/>
+	<SubTexture name="ron_down0000" x="0" y="0" width="771" height="913"/>
+	<SubTexture name="ron_down0001" x="0" y="913" width="771" height="913"/>
+	<SubTexture name="ron_down0002" x="0" y="1826" width="771" height="913"/>
+	<SubTexture name="ron_down0003" x="0" y="2739" width="771" height="913"/>
+	<SubTexture name="ron_down0004" x="0" y="3652" width="771" height="913"/>
+	<SubTexture name="ron_down0005" x="0" y="4565" width="771" height="913"/>
+	<SubTexture name="ron_down0006" x="0" y="5478" width="771" height="913"/>
+	<SubTexture name="ron_left0000" x="0" y="6391" width="588" height="769"/>
+	<SubTexture name="ron_left0001" x="0" y="7160" width="588" height="769"/>
+	<SubTexture name="ron_left0002" x="588" y="6391" width="588" height="769"/>
+	<SubTexture name="ron_left0003" x="588" y="7160" width="588" height="769"/>
+	<SubTexture name="ron_left0004" x="771" y="0" width="588" height="769"/>
+	<SubTexture name="ron_left0005" x="771" y="769" width="588" height="769"/>
+	<SubTexture name="ron_right0000" x="771" y="5588" width="401" height="769"/>
+	<SubTexture name="ron_right0001" x="1172" y="5588" width="401" height="769"/>
+	<SubTexture name="ron_right0002" x="1176" y="6357" width="401" height="769"/>
+	<SubTexture name="ron_right0003" x="1176" y="7126" width="401" height="769"/>
+	<SubTexture name="ron_right0004" x="1318" y="1538" width="401" height="769"/>
+	<SubTexture name="ron_up0000" x="771" y="1538" width="547" height="810"/>
+	<SubTexture name="ron_up0001" x="771" y="2348" width="547" height="810"/>
+	<SubTexture name="ron_up0002" x="771" y="3158" width="547" height="810"/>
+	<SubTexture name="ron_up0003" x="771" y="3968" width="547" height="810"/>
+	<SubTexture name="ron_up0004" x="771" y="4778" width="547" height="810"/>
+</TextureAtlas>

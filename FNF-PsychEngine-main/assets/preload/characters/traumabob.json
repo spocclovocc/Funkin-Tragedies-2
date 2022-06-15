@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				120,
+				265
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "trauma bob idle"
+		},
+		{
+			"offsets": [
+				157,
+				304
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "trauma_bob_up"
+		},
+		{
+			"offsets": [
+				130,
+				297
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "trauma_bob_right"
+		},
+		{
+			"offsets": [
+				194,
+				285
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "trauma_bob_left"
+		},
+		{
+			"offsets": [
+				168,
+				197
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "trauma_bob_down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/trauma_bob",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "icon_traumabob",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		30,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

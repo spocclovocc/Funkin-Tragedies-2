@@ -79,7 +79,9 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-	        ["The Funkin' Tragedies Team"],
+	        ["ligma balls"],
+			[''],
+			["The Funkin' Tragedies Team"],
 	        ['Demones',				'demones',			'Director and Artist',									'https://twitter.com/The_Demones',	'FF0000'],
 			['this is fine',        'this is fine',     'Animator Of The Erect BF Sprites Used During Traumatic Experience', 'https://www.youtube.com/channel/UC0gow78r2JOjTEsbdiF2Z2g', 'A55E49'],
 			['batisebastian',		'batise',			'Artist',												'https://twitter.com/batisebastiann?t=E9BunU3LWWRVo-xwR1lgPw&s=09',	'232323'],

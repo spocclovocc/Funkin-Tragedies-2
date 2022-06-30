@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-3,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				-34
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				35,
+				67
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": true,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-40,
+				-30
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				34,
+				-50
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fatherless_bob",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "test",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		195,
+		91
+	],
+	"camera_position": [
+		-130,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

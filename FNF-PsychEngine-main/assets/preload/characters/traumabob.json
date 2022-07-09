@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				120,
 				265
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "trauma bob idle"
+			"fps": 24,
+			"name": "trauma bob idle",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				157,
 				304
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "trauma_bob_up"
+			"fps": 24,
+			"name": "trauma_bob_up",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				130,
 				297
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "trauma_bob_right"
+			"fps": 24,
+			"name": "trauma_bob_right",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				194,
 				285
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "trauma_bob_left"
+			"fps": 24,
+			"name": "trauma_bob_left",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				168,
 				197
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "trauma_bob_down"
+			"fps": 24,
+			"name": "trauma_bob_down",
+			"indices": []
 		}
 	],
 	"no_antialiasing": true,
@@ -62,12 +62,12 @@
 		150,
 		360
 	],
-	"healthicon": "icon_traumabob",
+	"healthicon": "traumabob",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		255,
-		255
+		137,
+		99,
+		101
 	],
 	"camera_position": [
 		30,

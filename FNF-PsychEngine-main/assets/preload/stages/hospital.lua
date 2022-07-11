@@ -1,10 +1,10 @@
 function onCreate()
 	
-	makeLuaSprite('hospital', 'hospital', 100, 300); 
-	setScrollFactor('hospital', 1, 1);
-	scaleObject('hospital', 1, 1);
+	makeLuaSprite('hospitan', 'hospitan', -170, 0); 
+	setScrollFactor('hospitan', 1, 1);
+	scaleObject('hospitan', 1, 1);
 
-	addLuaSprite('hospital', false);
+	addLuaSprite('hospitan', false);
 
 	close(true); --For performance reasons
 end

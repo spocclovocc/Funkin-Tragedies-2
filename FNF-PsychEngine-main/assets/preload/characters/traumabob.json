@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				120,
 				265
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "trauma bob idle"
+			"fps": 24,
+			"name": "trauma bob idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				157,
-				304
+				177,
+				310
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "trauma_bob_up"
+			"fps": 20,
+			"name": "trauma_bob_up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				130,
-				297
+				141,
+				302
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "trauma_bob_right"
+			"fps": 20,
+			"name": "trauma_bob_right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				194,
-				285
+				214,
+				288
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "trauma_bob_left"
+			"fps": 20,
+			"name": "trauma_bob_left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				168,
-				197
+				169,
+				186
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "trauma_bob_down"
+			"fps": 20,
+			"name": "trauma_bob_down",
+			"indices": []
 		}
 	],
 	"no_antialiasing": true,
@@ -71,8 +71,8 @@
 	],
 	"camera_position": [
 		30,
-		-50
+		-80
 	],
 	"sing_duration": 4,
-	"scale": 0.6
+	"scale": 0.7
 }

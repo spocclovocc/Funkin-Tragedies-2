@@ -1,4 +1,5 @@
 export/
+holder/
 .vscode/
 APIStuff.hx
 art/build_x32-officialrelease.bat

@@ -106,7 +106,7 @@
 		150,
 		360
 	],
-	"healthicon": "icon_traumabob",
+	"healthicon": "traumabob",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,

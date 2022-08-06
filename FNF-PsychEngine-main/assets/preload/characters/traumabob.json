@@ -60,7 +60,7 @@
 	"image": "characters/trauma_bob",
 	"position": [
 		150,
-		360
+		200
 	],
 	"healthicon": "traumabob",
 	"flip_x": false,

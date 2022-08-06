@@ -14,7 +14,7 @@
 	"songs": [
 		[
 			"traumatic-experience",
-			"icon_traumabob",
+			"icon-traumabob",
 			[
 				146,
 				113,
@@ -23,7 +23,16 @@
 		],
 		[
 			"guilt",
-			"icon_traumabob",
+			"icon-traumabob",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"lucid",
+			"icon_ron",
 			[
 				146,
 				113,

@@ -1,103 +1,103 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				288,
 				128
 			],
-			"anim": "singDOWN",
+			"loop": true,
 			"fps": 24,
-			"name": "trauma_bob_down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "trauma_bob_down"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				310,
 				195
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 24,
-			"name": "trauma bob idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "trauma bob idle"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				287,
 				235
 			],
-			"anim": "singUP",
+			"loop": true,
 			"fps": 24,
-			"name": "trauma_bob_up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "trauma_bob_up"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				380,
 				227
 			],
-			"anim": "singRIGHT",
+			"loop": true,
 			"fps": 24,
-			"name": "trauma_bob_right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "trauma_bob_right"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				244,
 				215
 			],
-			"anim": "singLEFT",
+			"loop": true,
 			"fps": 24,
-			"name": "trauma_bob_left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "trauma_bob_left"
 		},
 		{
+			"loop": true,
 			"offsets": [
 				330,
 				181
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "bob_missleft",
-			"loop": true,
-			"name": "bob_missleft"
+			"fps": 24,
+			"name": "bob_missleft",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				280,
 				280
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "bob_missright",
-			"loop": true,
-			"name": "bob_missright"
+			"fps": 24,
+			"name": "bob_missright",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				288,
 				280
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "bob_downmiss",
-			"loop": true,
-			"name": "traumabob_downmiss"
+			"fps": 24,
+			"name": "traumabob_downmiss",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				278,
 				244
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "bob_up_miss",
-			"loop": true,
-			"name": "traumabob_up_miss"
+			"fps": 24,
+			"name": "traumabob_up_miss",
+			"indices": []
 		}
 	],
 	"no_antialiasing": true,
@@ -109,9 +109,9 @@
 	"healthicon": "traumabob",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		255,
-		255
+		137,
+		99,
+		101
 	],
 	"camera_position": [
 		200,

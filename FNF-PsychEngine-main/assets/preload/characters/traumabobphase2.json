@@ -60,7 +60,7 @@
 	"image": "characters/phase 2 trauma bob",
 	"position": [
 		150,
-		360
+		100
 	],
 	"healthicon": "icon_traumabob",
 	"flip_x": false,

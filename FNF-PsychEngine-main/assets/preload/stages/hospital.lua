@@ -1,5 +1,7 @@
 function onCreate()
 	
+    setProperty('gf.visible',false)
+
 	makeLuaSprite('sky', 'sky', -150, 0); 
 	setScrollFactor('sky', 1, 1);
 	scaleObject('sky', 1, 1);

@@ -60,9 +60,9 @@
 	"image": "characters/phase 2 trauma bob",
 	"position": [
 		150,
-		100
+		230
 	],
-	"healthicon": "icon_traumabob",
+	"healthicon": "traumabob",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
@@ -71,7 +71,7 @@
 	],
 	"camera_position": [
 		-20,
-		120
+		10
 	],
 	"sing_duration": 4,
 	"scale": 1.1

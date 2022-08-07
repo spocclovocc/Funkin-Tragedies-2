@@ -1,6 +1,6 @@
 function onCreate()
 	
-	makeLuaSprite('PurgatorySky', 'PurgatorySky', -490, -150); 
+	makeLuaSprite('PurgatorySky', 'PurgatorySky', -490, 50); 
 	setScrollFactor('PurgatorySky', 1.3, 1.2);
 	scaleObject('PurgatorySky', 1.2, 1.2);
 

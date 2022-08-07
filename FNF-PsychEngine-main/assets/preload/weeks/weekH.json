@@ -1,6 +1,6 @@
 {
-	"storyName": "traumatic-experience and guilt ft. dandawg.",
-	"difficulties": "",
+	"storyName": "Bob",
+	"difficulties": "Hard",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
@@ -14,7 +14,7 @@
 	"songs": [
 		[
 			"traumatic-experience",
-			"icon-traumabob",
+			"traumabob",
 			[
 				146,
 				113,
@@ -23,7 +23,7 @@
 		],
 		[
 			"guilt",
-			"icon-traumabob",
+			"traumabob",
 			[
 				146,
 				113,
@@ -32,7 +32,7 @@
 		],
 		[
 			"lucid",
-			"icon_ron",
+			"ron",
 			[
 				146,
 				113,

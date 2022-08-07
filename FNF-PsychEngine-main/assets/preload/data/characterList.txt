@@ -1,11 +1,6 @@
 bf
 dad
-traumabobphase2
-spocc
-ron
 gf
-little-dead
-gf-no-speaker
 spooky
 pico
 mom
@@ -23,6 +18,9 @@ senpai
 senpai-angry
 spirit
 bf-pixel-opponent
+gf-tankmen
+tankman
+pico-speaker
+bf-holding-gf
 pico-player
-traumabobp
-traumabob
+tankman-player
